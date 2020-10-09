@@ -1,0 +1,19 @@
+h1{
+    color: Black;
+    background-color: white;
+}
+h2{
+    color: Black;
+    background-color: yellow;
+}
+ * {
+    background-color: brown;
+} 
+p{
+    color: Black;
+    background-color: White;
+}
+a{
+    color: Black;
+    background-color: White;
+}
